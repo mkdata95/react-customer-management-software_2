@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+고객 관리 프로젝트 입니다. 리액트를 공부용 입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
